@@ -17,7 +17,7 @@ Uma ferramenta Python simples e ágil para administradores do Google Workspace q
 * Python 3.x instalado.
 * Biblioteca `pandas`.
 
-``bash
+bash
 `pip install pandas`  
 
 ## ⚙️ Configuração Rápida
@@ -36,7 +36,7 @@ Antes de rodar, abra o script .py e faça dois pequenos ajustes para o seu cená
 * **lista_ativos.csv:** A planilha atualizada do seu RH/DP contendo quem está ativo na empresa.
 
 * **2. Execute o Script*
-``Bash
+Bash
   `python audit_users.py`
 
 * **3. Analise o Resultado**
